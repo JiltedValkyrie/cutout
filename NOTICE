@@ -1,0 +1,4 @@
+Cutout
+
+src/card_views.py (rasterize, render_view, bleed, shrink) is adapted from MIT-licensed code,
+Copyright (c) 2026 Jilted Valkyrie. That licence is the same text as this repository's LICENSE file.
